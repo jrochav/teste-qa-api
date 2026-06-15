@@ -1,0 +1,6 @@
+base\BaseTest.class
+tests\InvalidBreedTest.class
+utils\Endpoints.class
+tests\BreedImagesTest.class
+tests\BreedsTest.class
+tests\RandomImageTest.class
